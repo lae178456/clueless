@@ -5,7 +5,7 @@ This project is a digital wardrobe manager that allows users to create, mix, and
 
 # Features:
 - 👗 **Digital Wardrobe:** Upload and categorize your clothing items.
-- 🧍‍♀️ **Outfit Planner:** Flip trough clothes on a virtual model to see each outfit looks.
+- 🧍‍♀️  **Outfit Planner:** Flip trough clothes on a virtual model to see each outfit looks.
 - ✨ **Outfit Suggestions:** Get suggestions and warnings about outfit matches and mismatches.
 - ❤️ **Save Favourites:** Save and retrieve your favorite outfits for future reference.
 - 🦋 **Mobile and Web Versions:** Access your digital closet on both mobile and web platforms.
