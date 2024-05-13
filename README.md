@@ -1,5 +1,5 @@
 # Welcome to the clueless app repository! ˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆
-This project is a digital wardrobe manager that allows users to create, mix, and match outfits using a custom-built interface with beautifully illustrated clothing items. Inspired by the futuristic closet technology in the 1995 movie '♡' Clueless '♡' , this app offers a modern solution for everyday  fashion choices. 
+This project is a digital wardrobe manager that allows users to create, mix, and match outfits using a custom-built interface with beautifully illustrated clothing items. Inspired by the futuristic closet technology in the 1995 movie '♡' Clueless '♡' , this app offers a modern solution for everyday  fashion choices.  
 
 ☆ ★ ✮ ★ ☆
 
@@ -9,6 +9,6 @@ This project is a digital wardrobe manager that allows users to create, mix, and
 - ✨**Outfit Suggestions:** Get suggestions and warnings about outfit matches and mismatches.
 - ❤️**Save Favourites:** Save and retrieve your favorite outfits for future reference.
 - 🦋**Mobile and Web Versions:** Access your digital closet on both mobile and web platforms.
-- 🎨**Upload your own items and designed accessories**
+- 🎨**Upload your own items and designed accessories from procreate**
 
 ☆ ★ ✮ ★ ☆
