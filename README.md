@@ -11,5 +11,5 @@ using a custom-built interface with beautifully illustrated clothing items. Insp
 - ❤️**Save Favourites:** Save and retrieve your favorite outfits for future reference.
 - 🦋**Mobile and Web Versions:** Access your digital closet on both mobile and web platforms. 
 - 🎨**Upload your own items and designed accessories from  procreate** 
-- Version 2 
+- Version 2 using Ai for automatically uploading clothing turned into illustrated items
 ☆ ★ ✮ ★ ☆
